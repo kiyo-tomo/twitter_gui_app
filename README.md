@@ -1,0 +1,2 @@
+# twitter_gui_app
+TwitterのDeveloper APIをGUIから操作できるアプリケーション
